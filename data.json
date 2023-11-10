@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "humidity": 46,
+      "temperature": 23,
+      "dateTime": "2023-11-10 15:50:55",
+      "id": 1
+    },
+    {
+      "humidity": 46,
+      "temperature": 23,
+      "dateTime": "2023-11-10 15:51:13",
+      "id": 2
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2023-11-10 15:51:29",
+      "id": 3
+    },
+    {
+      "humidity": 46,
+      "temperature": 23,
+      "dateTime": "2036-02-07 14:28:16",
+      "id": 4
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2036-02-07 14:28:32",
+      "id": 5
+    },
+    {
+      "humidity": 47,
+      "temperature": 22,
+      "dateTime": "2036-02-07 14:28:16",
+      "id": 6
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2036-02-07 14:28:16",
+      "id": 7
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2023-11-10 15:52:47",
+      "id": 8
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2023-11-10 15:53:02",
+      "id": 9
+    },
+    {
+      "humidity": 46,
+      "temperature": 22,
+      "dateTime": "2023-11-10 15:53:18",
+      "id": 10
+    },
+    {
+      "humidity": 25,
+      "temerature": 23,
+      "dateTime": "2023-11-10 16:07:32",
+      "id": 11
+    },
+    {
+      "humidity": 45,
+      "temerature": 22,
+      "dateTime": "2023-11-10 16:07:47",
+      "id": 12
+    },
+    {
+      "humidity": 45,
+      "temerature": 22,
+      "dateTime": "2023-11-10 16:08:03",
+      "id": 13
+    },
+    {
+      "humidity": 45,
+      "temerature": 22,
+      "dateTime": "2023-11-10 16:08:18",
+      "id": 14
+    },
+    {
+      "humidity": 45,
+      "temerature": 22,
+      "dateTime": "2023-11-10 16:08:33",
+      "id": 15
+    },
+    {
+      "humidity": 44,
+      "temerature": 23,
+      "dateTime": "2023-11-10 16:08:49",
+      "id": 16
+    },
+    {
+      "humidity": 43,
+      "temerature": 23,
+      "dateTime": "2023-11-10 16:09:05",
+      "id": 17
+    },
+    {
+      "humidity": 43,
+      "temerature": 23,
+      "dateTime": "2023-11-10 16:09:20",
+      "id": 18
+    },
+    {
+      "humidity": 44,
+      "temerature": 23,
+      "dateTime": "2023-11-10 16:09:36",
+      "id": 19
+    },
+    {
+      "humidity": 30,
+      "temerature": 23,
+      "dateTime": "2023-11-10 15:10:22",
+      "id": 20
+    },
+    {
+      "humidity": 44,
+      "temerature": 23,
+      "dateTime": "2023-11-10 15:10:37",
+      "id": 21
+    },
+    {
+      "humidity": 45,
+      "temerature": 23,
+      "dateTime": "2023-11-10 15:10:53",
+      "id": 22
+    },
+    {
+      "humidity": 46,
+      "temerature": 23,
+      "dateTime": "2023-11-10 15:11:08",
+      "id": 23
+    },
+    {
+      "humidity": 46,
+      "temerature": 23,
+      "dateTime": "2023-11-10 15:11:24",
+      "id": 24
+    },
+    {
+      "humidity": 46,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:11:39",
+      "id": 25
+    },
+    {
+      "humidity": 47,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:11:55",
+      "id": 26
+    },
+    {
+      "humidity": 47,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:12:10",
+      "id": 27
+    },
+    {
+      "humidity": 48,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:12:26",
+      "id": 28
+    },
+    {
+      "humidity": 48,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:12:41",
+      "id": 29
+    },
+    {
+      "humidity": 49,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:12:57",
+      "id": 30
+    },
+    {
+      "humidity": 49,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:13:12",
+      "id": 31
+    },
+    {
+      "humidity": 49,
+      "temerature": 24,
+      "dateTime": "2023-11-10 15:13:27",
+      "id": 32
+    }
+  ]
+}
